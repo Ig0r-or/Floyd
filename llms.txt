@@ -1,0 +1,116 @@
+# História do Jogo
+
+## Epílogo:
+*   Introdução ao contexto de Tróia;
+*   Introdução à família do personagem;
+*   Introdução ao exército de Tróia (tutorial de gameplay);
+*   Guerra de Tróia e "morte" do protagonista;
+*   Introdução a Ker e ao Olimpo;
+*   Introdução a Nêmesis, Apollo e Hemera (tutorial de gameplay);
+*   Introdução a Éris.
+
+O protagonista teve uma vida antes (pode ser uma cutscene, é um aspecto para ter a desculpa pro jogador selecionar o nome e o gênero do personagem), morreu em batalha, foi ressuscitado por uma divindade Ker, herdou sua bênção. Ker deseja se tornar uma deusa mais justa, escolhendo o personagem para livrá-la do submundo, matando sua mãe Nix.
+
+---
+
+# ÁREA TÉCNICA/ REFERÊNCIA
+
+## Ajudantes:
+*   **Deusa Nêmesis** - Bondoso
+*   **Deusa Ker** - Neutro
+*   **Deusa Éris** - Maldoso
+
+## Chefes:
+*   Deusa Hemera
+*   Deus Geras
+*   Deus Tânato
+*   As Deusas Hespérides
+*   Deusa Lissa
+*   Deus Hipnos
+*   Deusa Nix
+
+## Side Quests:
+*   Os deuses oniros
+*   Deus Momo
+
+*   Viver e escolher lado: decisões mudam o alinhamento.
+*   Specs do jogo: mapa de geração aleatório.
+*   Eventos aleatórios entre o mundo para transformar seu alinhamento e sua força.
+*   Sistema de "" em que aumenta gradual e a cada aumento ele ter esse "baque" em que é voltado para a quest principal.
+
+---
+
+# Protagonista - Resumo
+
+## Protagonista
+
+**Características Físicas/Resumo previsto:**
+Foi um homem ou mulher de estatura mediana, com cabelos castanhos, pretos ou loiros — uma característica gerada aleatoriamente, como se o destino brincasse com os traços de sua aparência (gerar essa característica aleatoriamente). Nasceu nos arredores de Tróia. O local, marcado por séculos de guerras contra a Grécia, moldou desde cedo o espírito do protagonista.
+
+Sua infância foi breve, quase inexistente. Os dias de brincadeira foram substituídos por noites de fuga, escondido entre ruínas e florestas, enquanto seu povo era perseguido por crenças, origens ou alianças que ele ainda não compreendia. Mesmo assim, nos raros momentos de paz, aprendeu a observar o mundo com olhos atentos — o céu, os sons da natureza, os gestos de afeto entre os sobreviventes. Esses fragmentos de ternura foram tudo o que teve antes de ser lançado ao caos da guerra.
+
+À medida que crescia, não teve escolha: foi empurrado para os campos de batalha como tantos outros jovens de sua terra. Treinado com pressa, aprendeu a manejar a espada com surpreendente habilidade. Sua proficiência em combate era notável — ágil, preciso, quase instintivo. Mas, por dentro, nunca se interessou pela guerra. Lutava por obrigação, não por glória. A cada vida que tirava, sentia o peso da existência se tornar mais sombrio.
+
+Certo dia, durante uma expedição em território hostil, o protagonista e seu grupo foram emboscados. A emboscada foi brutal, silenciosa e bem planejada. Cercado por inimigos em número avassalador, não teve chance de escapar. Lutou com tudo o que tinha — não por vitória, mas por sobrevivência. E ali, naquele campo esquecido, encontrou seu fim.
+
+> “É dito que todo humano possui uma “Queres” consigo, como lembrete da inevitável morte, e com nosso protagonista não é diferente.“
+
+Sua morte não teve glória, apesar de sua maestria em combate. As histórias contam que foi surpreendido por um número esmagador de inimigos. Lutou com bravura, mas à medida que a batalha se estendia, sua defesa começava a falhar. A mente, tomada por ilusões, passou a enxergar a figura de uma mulher — uma presença fantasmagórica que se tornava cada vez mais nítida conforme ele se feria. Sua visão turvava, seus movimentos tornavam-se lentos, e o medo da morte o consumia.
+
+A cada inimigo abatido, dois outros surgiam. Quando um corpo caía sob sua lâmina, vultos femininos grotescos cobriam os cadáveres. O protagonista parecia ser o único capaz de vê-los — e isso o aterrorizava.
+
+A luta se prolongou até que a exaustão o dominou. Cercado, foi dilacerado por seus inimigos. Nos últimos instantes, a sombra tomou forma. Mas não era grotesca — era lírica. Uma bela dama envolta em véus brancos, com longos cabelos negros como a noite e olhos escarlates que brilhavam intensamente. Embora ele nunca a tivesse visto antes, ela parecia conhecê-lo profundamente. Seu semblante era triste, como quem lamenta uma perda irreparável.
+
+> “O papel principal das Queres é reivindicar as almas daqueles que encontram um fim violento, um dever que cumprem com uma eficiência assustadora. Eles não se deixam levar por súplicas ou oferendas, nem se deleitam com sua tarefa sombria. São a personificação da morte violenta, um papel que encarnam com uma postura fria e inflexível.“
+>
+> — Então por que aquela mulher parecia diferente?
+
+**Poder/Poderes:**
+*(desenvolver)* Benção de Ker.
+
+---
+
+# Mitologia - Resumo
+
+## Ajudantes: Ker 
+
+As CERÉS eram espíritos femininos (daimones) da morte violenta ou cruel, incluindo morte em batalha, por acidente, assassinato ou doença devastadora. Outro espírito, Tânatos, era o deus da morte não violenta. (Theoi)
+
+Queres, sendo filhas de Nix, nasceram em uma natureza sombria. Um fato interessante é que elas próprias não podiam infligir a morte aos humanos. Elas se deliciavam com os corpos de suas vítimas após encontrarem seus terríveis fins no campo de batalha. (Olympioi)
+
+As Keres eram espíritos femininos originadas de Nix, a deusa da noite. Alguns atribui-lhes a paternidade de Erebus, outros defendem que elas foram geradas sem a união com outro deus. As Queres simbolizam o destino cruel, fatal e impossível de escapar e elas seriam aquelas que traziam a morte violenta aos mortais. Cada uma das Keres correspondia a um tipo específico de morte violenta, chamadas pelos romanos de Tênebras ou Trevas. (Eventos Mitologia Grega Blog)
+
+**Características Físicas:**
+
+As Keres eram verdadeiros monstros alados de cor negra, dentes pontiagudos e longas unhas que usavam para ferir ou despedaçar os cadáveres. (Eventos Mitologia Grega Blog)
+
+As Keres são frequentemente retratadas como mulheres de asas escuras, às vezes com o rosto de uma ave de rapina, descendo sobre as almas dos caídos com um comportamento arrepiante e distante.
+
+Sua aparência é um lembrete severo de seu dever cruel, com asas escuras que bloqueiam o sol enquanto descem sobre o campo de batalha. Os Keres são frequentemente retratados com garras ou outros apêndices semelhantes a garras, prontos para arrebatar as almas daqueles que encontram um fim violento. Seu semblante não é cruel nem compassivo; é a face fria e implacável da morte, desprovida de emoção ou misericórdia. (Olympioi)
+
+As Keres eram retratadas como mulheres com presas e garras, vestidas com vestes ensanguentadas. (Theoi)
+
+**Poder/Poderes:**
+
+As Keres eram irmãs de Thanatos - a personificação da morte, Moro - o escárnio e o quinhão que cada homem receberá em vida e o destino e Átropos - uma das Moiras. Juntos determinavam o fim da vida. Enquanto seus irmãos promoviam a morte tranquila, as Keres rondavam os campos de batalha, portanto tinham por missão trazer a morte cruel antes do tempo.
+
+Quando o sanguinário deus Ares partia para grandes guerras, convocava as Keres para fazer parte de seu cortejo. À frente iam os filhos de Ares, Deimos - o espanto e Phobos - o terror. Após a batalha, as Keres devoravam os mortos e levavam as almas ao Hades. Presentes nos campos de batalha ou nos momentos de grande violência, como assassinatos, acidentes e devastações coletivas, aos que sobreviviam a elas, restava-lhes uma visão de sua horrível presença. A Ilíada afirma que cada ser humano possui uma Ker consigo, que personifica sua própria morte. (Eventos Mitologia Grega Blog)
+
+O papel principal dos Keres é reivindicar as almas daqueles que encontram um fim violento, um dever que cumprem com uma eficiência assustadora. Eles não se deixam levar por súplicas ou oferendas, nem se deleitam com sua tarefa sombria. São a personificação da morte violenta, um papel que encarnam com uma postura fria e inflexível.
+
+Os antigos gregos acreditavam que os Keres não podiam ser influenciados ou dissuadidos de seu dever. Seu poder sobre a morte era absoluto, fato refletido na eficiência arrepiante com que reivindicavam as almas dos caídos. Os poderes dos Keres não são chamativos nem extravagantes; são sombrios, inflexíveis, um lembrete severo do fim inevitável que aguarda todos os mortais.
+
+As responsabilidades dos Keres vão além do campo de batalha. Eles são um lembrete do fim inevitável que aguarda todos os mortais, um lembrete de que a morte pode chegar rapidamente e sem aviso. O papel dos Keres na mitologia grega é um reflexo da compreensão e aceitação da morte pelos antigos gregos como uma parte natural e inevitável da vida. (Olympioi)
+
+**2 contos que irão inspirar a história:**
+
+1.  **Elas seriam um dos maus espíritos liberados da caixa de Pandora.** Ora tratadas como várias divindades e ora tratada apenas como uma única divindade que tinha um valor coletivo, entre as personificações destrutivas estão: Stygere, o ódio - Anaplekte, a morte rápida - Nosos, a doença - Ker, a destruição - Akhlys, a névoa da morte. (Eventos Mitologia Grega Blog)
+2.  **A batalha de Tróia:** Uma das menções mais notáveis aos Keres é durante a épica batalha de Troia, onde são descritos como se lançando sobre o campo de batalha, reivindicando as almas dos caídos com uma eficiência assustadora. A imagem dos Keres descendo sobre o campo de batalha é um lembrete contundente do frágil fio da vida que está em jogo em tempos de guerra e conflito.
+    *   Na Ilíada de Homero, os Keres são frequentemente mencionados, personificando a morte inevitável que paira sobre os guerreiros no campo de batalha. Sua presença é um lembrete constante da frágil fronteira entre a vida e a morte, uma fronteira que pode ser cruzada a qualquer momento no calor da batalha. A expressão "Keres da morte", usada por Homero, resume o pavor e a inevitabilidade associados a essas entidades. Os gregos as viam como forças implacáveis da natureza, inflexíveis em seu dever de reivindicar as almas dos caídos.
+    *   O papel dos Keres na batalha de Troia não é de malícia ou crueldade, mas de dever. Eles são agentes do destino, cumprindo sua tarefa sombria com uma atitude fria e inflexível. Os antigos gregos viam os Keres com uma mistura de medo e respeito, reconhecendo seu papel no grande plano da vida e da morte.
+3.  **O Conto de Aquiles:** A história de Aquiles, o poderoso herói grego, também se entrelaça com a tradição dos Keres. Conforme previsto pela profecia, Aquiles estava destinado a morrer jovem. Os Keres, como agentes do destino, desempenharam um papel crucial no cumprimento dessa profecia. Entendida como um lembrete sombrio da natureza inexorável do destino.
+    *   Na Ilíada, os Keres são retratados como onipresentes no campo de batalha. Sua essência sombria é uma sombra constante sobre os guerreiros, incluindo Aquiles. A narrativa descreve como mesmo os heróis mais poderosos não conseguiram escapar de suas garras quando o destino decidiu que era hora. A imagem dos Keres descendo ao campo de batalha para reivindicar a alma de Aquiles é assombrosa.
+    *   A história de Aquiles e Keres é uma narrativa poderosa. Ressalta a compreensão e a aceitação da morte pelos gregos antigos como parte natural e inevitável da vida. É uma narrativa que ressoa através do tempo, um lembrete da natureza inexorável do destino e do frágil fio da vida que está em jogo. (Olympioi)
+
+**Momento em que aparece no jogo:**
+Irá aparecer no jogo logo no epílogo! Irá ajudar o player caso ele se mantenha no caminho desejado pela Ker. Caso o player se torne maldoso ou bondoso, Ker poderá abandoná-lo, não aceitando o seu perdão! Lembre-se, a Ker é onipresente e vive dentro de você!

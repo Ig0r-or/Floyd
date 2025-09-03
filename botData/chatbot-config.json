@@ -1,0 +1,16 @@
+{
+    "primaryColor": "#421e6d",
+    "chatbotName": "Floyd",
+    "buttonColor": "#7535c2",
+    "backgroundColor": "#0f0718",
+    "headerColor": "#7535c2",
+    "userBubble": "#0f0718",
+    "botBubble": "#421e6d",
+    "userText": "#fff",
+    "botText": "#fff",
+    "iconUrl": "./botData/Floyd.jpg",
+    "botAvatar": "./botData/Floyd.jpg",
+    "welcomeBubble": "Olá! como podemos te ajudar hoje?",
+    "firstBotMessage": "Me conta, o que você quer saber hoje?",
+    "typingDelay": 0.5
+}
