@@ -16,7 +16,7 @@ export class PromptService {
     async #createSession() {
         this.#session = await LanguageModel.create({
             initialPrompts: this.#messages,
-            expectedInputLanguages: ['pt']
+            expectedInputLanguages: ['en']
         })
 
         return this.#session
